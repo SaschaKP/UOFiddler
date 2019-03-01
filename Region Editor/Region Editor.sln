@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8528-beta
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Region Editor", "Region Editor.csproj", "{A1FDB899-C42D-4707-B8D5-53DFCF95BA67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FDB899-C42D-4707-B8D5-53DFCF95BA67}.Debug|x86.Build.0 = Debug|x86
+		{A1FDB899-C42D-4707-B8D5-53DFCF95BA67}.Debug|x86.ActiveCfg = Debug|x86
+		{A1FDB899-C42D-4707-B8D5-53DFCF95BA67}.Release|x86.Build.0 = Release|x86
+		{A1FDB899-C42D-4707-B8D5-53DFCF95BA67}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
